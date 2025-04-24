@@ -34,6 +34,6 @@ To view the card layout in your browser:
 
 Or view it live here:
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://abdallahbenj.github.io/Playing-cards/)
 
 ## Shuffle your CSS skills and master Flexbox layouts with style! 🃏💡🎯
